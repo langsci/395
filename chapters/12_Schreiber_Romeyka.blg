@@ -1,0 +1,20 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is '12_Schreiber_Romeyka.blg'
+[85] biber:340> INFO - === Mon Nov 18, 2024, 16:41:02
+[100] Biber.pm:419> INFO - Reading '12_Schreiber_Romeyka.bcf'
+[219] Biber.pm:979> INFO - Found 79 citekeys in bib section 0
+[238] Biber.pm:4419> INFO - Processing section 0
+[248] Biber.pm:4610> INFO - Looking for bibtex file '../collection_tmp.bib' for section 0
+[250] bibtex.pm:1713> INFO - LaTeX decoding ...
+[310] bibtex.pm:1519> INFO - Found BibTeX data source '../collection_tmp.bib'
+[377] Biber.pm:4610> INFO - Looking for bibtex file '../localbibliography.bib' for section 0
+[400] bibtex.pm:1713> INFO - LaTeX decoding ...
+[1063] bibtex.pm:1519> INFO - Found BibTeX data source '../localbibliography.bib'
+[1639] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1639] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1639] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[1639] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[1711] bbl.pm:660> INFO - Writing '12_Schreiber_Romeyka.bbl' with encoding 'UTF-8'
+[1759] bbl.pm:763> INFO - Output to 12_Schreiber_Romeyka.bbl
+[1759] Biber.pm:131> WARN - legacy year field '1958--1961' in entry 'papadopoulos1958-1961' is not an integer - this will probably not sort properly.
+[1759] Biber.pm:133> INFO - WARNINGS: 1

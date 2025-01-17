@@ -1,0 +1,18 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is '5_Korn_Bashkardi.blg'
+[77] biber:340> INFO - === Fri Nov 15, 2024, 13:03:08
+[90] Biber.pm:419> INFO - Reading '5_Korn_Bashkardi.bcf'
+[160] Biber.pm:979> INFO - Found 26 citekeys in bib section 0
+[172] Biber.pm:4419> INFO - Processing section 0
+[182] Biber.pm:4610> INFO - Looking for bibtex file '../collection_tmp.bib' for section 0
+[184] bibtex.pm:1713> INFO - LaTeX decoding ...
+[228] bibtex.pm:1519> INFO - Found BibTeX data source '../collection_tmp.bib'
+[284] Biber.pm:4610> INFO - Looking for bibtex file '../localbibliography.bib' for section 0
+[302] bibtex.pm:1713> INFO - LaTeX decoding ...
+[876] bibtex.pm:1519> INFO - Found BibTeX data source '../localbibliography.bib'
+[1052] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1052] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1052] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[1053] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[1076] bbl.pm:660> INFO - Writing '5_Korn_Bashkardi.bbl' with encoding 'UTF-8'
+[1093] bbl.pm:763> INFO - Output to 5_Korn_Bashkardi.bbl

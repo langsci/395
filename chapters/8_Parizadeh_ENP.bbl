@@ -1,0 +1,951 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{ArnoldLosongco2000}{article}{}
+      \name{author}{4}{}{%
+        {{hash=4ebcf5bd1f391c685b15f5b1b82ff1e0}{%
+           family={Arnold},
+           familyi={A\bibinitperiod},
+           given={Jennifer\bibnamedelima E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=9a62d43b0445141d5e6bba2d829ef7e2}{%
+           family={Losongco},
+           familyi={L\bibinitperiod},
+           given={Anthony},
+           giveni={A\bibinitperiod}}}%
+        {{hash=e3f65d9a6876a6bd1c9e55f99d04cf09}{%
+           family={Wasow},
+           familyi={W\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=d893cd3896108a4f27018a605960a7b5}{%
+           family={Ginstrom},
+           familyi={G\bibinitperiod},
+           given={Ryan},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{95ce582a1f92f73ae22c726a21a3f2fa}
+      \strng{fullhash}{1d09f847a8f1f1079a946b6459ebec07}
+      \strng{bibnamehash}{1d09f847a8f1f1079a946b6459ebec07}
+      \strng{authorbibnamehash}{1d09f847a8f1f1079a946b6459ebec07}
+      \strng{authornamehash}{95ce582a1f92f73ae22c726a21a3f2fa}
+      \strng{authorfullhash}{1d09f847a8f1f1079a946b6459ebec07}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00978507}
+      \field{journaltitle}{Language}
+      \field{number}{1}
+      \field{title}{Heaviness vs. newness: {The} effects of structural complexity and discourse status on constituent ordering}
+      \field{volume}{76}
+      \field{year}{2000}
+      \field{pages}{28\bibrangedash 55}
+      \range{pages}{28}
+      \verb{doi}
+      \verb 10.1353/lan.2000.0045
+      \endverb
+    \endentry
+    \entry{behaghel_beziehungen_1909}{article}{}
+      \name{author}{1}{}{%
+        {{hash=361141bb7279a8c17b1d24cb81a43910}{%
+           family={Behaghel},
+           familyi={B\bibinitperiod},
+           given={Otto},
+           giveni={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{361141bb7279a8c17b1d24cb81a43910}
+      \strng{fullhash}{361141bb7279a8c17b1d24cb81a43910}
+      \strng{bibnamehash}{361141bb7279a8c17b1d24cb81a43910}
+      \strng{authorbibnamehash}{361141bb7279a8c17b1d24cb81a43910}
+      \strng{authornamehash}{361141bb7279a8c17b1d24cb81a43910}
+      \strng{authorfullhash}{361141bb7279a8c17b1d24cb81a43910}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Indogermanische Forschungen}
+      \field{month}{10}
+      \field{title}{{Beziehungen zwischen Umfang und Reihenfolge von Satzgliedern}}
+      \field{volume}{25}
+      \field{year}{1909}
+      \field{pages}{110\bibrangedash 142}
+      \range{pages}{33}
+    \endentry
+    \entry{FaghiriSamvelian2014Order}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=4d27859c625eed7e3832d07d1d83c604}{%
+           family={Faghiri},
+           familyi={F\bibinitperiod},
+           given={Pegah},
+           giveni={P\bibinitperiod}}}%
+        {{hash=bc9eadae3cc1f8c8c86d1b47216bf3fd}{%
+           family={Samvelian},
+           familyi={S\bibinitperiod},
+           given={Pollet},
+           giveni={P\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=da4146950add876cce22f3eff3fc8c92}{%
+           family={Piñón},
+           familyi={P\bibinitperiod},
+           given={Christopher},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {CNRS}%
+      }
+      \strng{namehash}{7a6a1f1681c37627020778df909e3437}
+      \strng{fullhash}{7a6a1f1681c37627020778df909e3437}
+      \strng{bibnamehash}{7a6a1f1681c37627020778df909e3437}
+      \strng{authorbibnamehash}{7a6a1f1681c37627020778df909e3437}
+      \strng{authornamehash}{7a6a1f1681c37627020778df909e3437}
+      \strng{authorfullhash}{7a6a1f1681c37627020778df909e3437}
+      \strng{editorbibnamehash}{da4146950add876cce22f3eff3fc8c92}
+      \strng{editornamehash}{da4146950add876cce22f3eff3fc8c92}
+      \strng{editorfullhash}{da4146950add876cce22f3eff3fc8c92}
+      \field{extraname}{1}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Empirical Issues in Syntax and Semantics}
+      \field{series}{Empirical Issues in Syntax and Semantics 10}
+      \field{title}{Constituent Ordering in {{Persian}} and the Weight Factor}
+      \field{year}{2014}
+      \field{pages}{215\bibrangedash 232}
+      \range{pages}{18}
+    \endentry
+    \entry{FaghiriSamvelian2020SOV}{article}{}
+      \name{author}{2}{}{%
+        {{hash=4d27859c625eed7e3832d07d1d83c604}{%
+           family={Faghiri},
+           familyi={F\bibinitperiod},
+           given={Pegah},
+           giveni={P\bibinitperiod}}}%
+        {{hash=bc9eadae3cc1f8c8c86d1b47216bf3fd}{%
+           family={Samvelian},
+           familyi={S\bibinitperiod},
+           given={Pollet},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{7a6a1f1681c37627020778df909e3437}
+      \strng{fullhash}{7a6a1f1681c37627020778df909e3437}
+      \strng{bibnamehash}{7a6a1f1681c37627020778df909e3437}
+      \strng{authorbibnamehash}{7a6a1f1681c37627020778df909e3437}
+      \strng{authornamehash}{7a6a1f1681c37627020778df909e3437}
+      \strng{authorfullhash}{7a6a1f1681c37627020778df909e3437}
+      \field{extraname}{2}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{23971835}
+      \field{journaltitle}{Glossa: A journal of general linguistics}
+      \field{number}{1}
+      \field{title}{Word order preferences and the effect of phrasal length in {SOV} languages: {Evidence} from sentence production in {Persian}}
+      \field{volume}{5}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.5334/GJGL.1078
+      \endverb
+    \endentry
+    \entry{FaghiriSamvelian2014Accesibility}{article}{}
+      \name{author}{3}{}{%
+        {{hash=4d27859c625eed7e3832d07d1d83c604}{%
+           family={Faghiri},
+           familyi={F\bibinitperiod},
+           given={Pegah},
+           giveni={P\bibinitperiod}}}%
+        {{hash=bc9eadae3cc1f8c8c86d1b47216bf3fd}{%
+           family={Samvelian},
+           familyi={S\bibinitperiod},
+           given={Pollet},
+           giveni={P\bibinitperiod}}}%
+        {{hash=3934d87781f68725029ab6be156ffd4e}{%
+           family={Hemforth},
+           familyi={H\bibinitperiod},
+           given={Barbara},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{4493d71cd7509089c3865ac37b80c3bb}
+      \strng{fullhash}{9453765454347b363c3ac2b276899c0a}
+      \strng{bibnamehash}{9453765454347b363c3ac2b276899c0a}
+      \strng{authorbibnamehash}{9453765454347b363c3ac2b276899c0a}
+      \strng{authornamehash}{4493d71cd7509089c3865ac37b80c3bb}
+      \strng{authorfullhash}{9453765454347b363c3ac2b276899c0a}
+      \field{extraname}{1}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the 21st International Conference on Head-Driven Phrase Structure Grammar}
+      \field{title}{Accessibility and word order: {The} case of ditransitive constructions in {{Persian}}}
+      \field{year}{2014}
+      \field{pages}{217\bibrangedash 237}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.21248/hpsg.2014.12
+      \endverb
+    \endentry
+    \entry{Faghirietal2018Canonical}{incollection}{}
+      \name{author}{3}{}{%
+        {{hash=4d27859c625eed7e3832d07d1d83c604}{%
+           family={Faghiri},
+           familyi={F\bibinitperiod},
+           given={Pegah},
+           giveni={P\bibinitperiod}}}%
+        {{hash=bc9eadae3cc1f8c8c86d1b47216bf3fd}{%
+           family={Samvelian},
+           familyi={S\bibinitperiod},
+           given={Pollet},
+           giveni={P\bibinitperiod}}}%
+        {{hash=3934d87781f68725029ab6be156ffd4e}{%
+           family={Hemforth},
+           familyi={H\bibinitperiod},
+           given={Barbara},
+           giveni={B\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=01bb9034b6749be9cecaba9272646493}{%
+           family={Korn},
+           familyi={K\bibinitperiod},
+           given={Agnes},
+           giveni={A\bibinitperiod}}}%
+        {{hash=82029acdd7ac5c06c6fd4c515c91e71f}{%
+           family={Malchukov},
+           familyi={M\bibinitperiod},
+           given={Andrej},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Reichert}%
+      }
+      \strng{namehash}{4493d71cd7509089c3865ac37b80c3bb}
+      \strng{fullhash}{9453765454347b363c3ac2b276899c0a}
+      \strng{bibnamehash}{9453765454347b363c3ac2b276899c0a}
+      \strng{authorbibnamehash}{9453765454347b363c3ac2b276899c0a}
+      \strng{authornamehash}{4493d71cd7509089c3865ac37b80c3bb}
+      \strng{authorfullhash}{9453765454347b363c3ac2b276899c0a}
+      \strng{editorbibnamehash}{0225be6560e12360840d6cc17ea3a35a}
+      \strng{editornamehash}{0225be6560e12360840d6cc17ea3a35a}
+      \strng{editorfullhash}{0225be6560e12360840d6cc17ea3a35a}
+      \field{extraname}{2}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Ditransitive constructions in a cross-linguistic perspective}
+      \field{title}{Is there a canonical order in {Persian} ditransitive constructions? {Corpus} based and experimental studies}
+      \field{year}{2018}
+      \field{pages}{165\bibrangedash 185}
+      \range{pages}{21}
+    \endentry
+    \entry{frommer_post-verbal_1981}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=5526b55608a4864e9a5a2c6dfd570ce2}{%
+           family={Frommer},
+           familyi={F\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {University of Southern California}%
+      }
+      \list{location}{1}{%
+        {Los Angeles}%
+      }
+      \strng{namehash}{5526b55608a4864e9a5a2c6dfd570ce2}
+      \strng{fullhash}{5526b55608a4864e9a5a2c6dfd570ce2}
+      \strng{bibnamehash}{5526b55608a4864e9a5a2c6dfd570ce2}
+      \strng{authorbibnamehash}{5526b55608a4864e9a5a2c6dfd570ce2}
+      \strng{authornamehash}{5526b55608a4864e9a5a2c6dfd570ce2}
+      \strng{authorfullhash}{5526b55608a4864e9a5a2c6dfd570ce2}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Post-verbal phenomena in colloquial {Persian} syntax}
+      \field{type}{phdthesis}
+      \field{year}{1981}
+    \endentry
+    \entry{Haig.Stilo.Dogan.Schiborr2022}{misc}{}
+      \name{author}{4}{}{%
+        {{hash=80c796a44fd8ebe5b5eb10b096753238}{%
+           family={Haig},
+           familyi={H\bibinitperiod},
+           given={Geoffrey},
+           giveni={G\bibinitperiod}}}%
+        {{hash=567b92f51776ce5d78db5bea72980534}{%
+           family={Stilo},
+           familyi={S\bibinitperiod},
+           given={Donald},
+           giveni={D\bibinitperiod}}}%
+        {{hash=c88d667f33c0f1abf81f70675145c102}{%
+           family={Doğan},
+           familyi={D\bibinitperiod},
+           given={Mahîr\bibnamedelima C.},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=1f19ec77fbceda0e0ae6b626d3eb694a}{%
+           family={Schiborr},
+           familyi={S\bibinitperiod},
+           given={Nils\bibnamedelima N.},
+           giveni={N\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Bamberg}%
+      }
+      \list{publisher}{1}{%
+        {University of Bamberg}%
+      }
+      \strng{namehash}{e17d6db33b495bdb0b0d8a1960396d5a}
+      \strng{fullhash}{3e571b5a38c58524167795f9a22a3b9c}
+      \strng{bibnamehash}{3e571b5a38c58524167795f9a22a3b9c}
+      \strng{authorbibnamehash}{3e571b5a38c58524167795f9a22a3b9c}
+      \strng{authornamehash}{e17d6db33b495bdb0b0d8a1960396d5a}
+      \strng{authorfullhash}{3e571b5a38c58524167795f9a22a3b9c}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{WOWA} — {Word} {Order} in {Western} {Asia}: {A} spoken-language-based corpus for investigating areal effects in word order variation}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb multicast.aspra.uni-bamberg.de/resources/wowa/
+      \endverb
+      \verb{url}
+      \verb multicast.aspra.uni-bamberg.de/resources/wowa/
+      \endverb
+    \endentry
+    \entry{Hawkins1990universals}{article}{}
+      \name{author}{1}{}{%
+        {{hash=96cb7e990af50532d70c774559454623}{%
+           family={Hawkins},
+           familyi={H\bibinitperiod},
+           given={John\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{96cb7e990af50532d70c774559454623}
+      \strng{fullhash}{96cb7e990af50532d70c774559454623}
+      \strng{bibnamehash}{96cb7e990af50532d70c774559454623}
+      \strng{authorbibnamehash}{96cb7e990af50532d70c774559454623}
+      \strng{authornamehash}{96cb7e990af50532d70c774559454623}
+      \strng{authorfullhash}{96cb7e990af50532d70c774559454623}
+      \field{extraname}{1}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0024-3892}
+      \field{journaltitle}{Linguistic Inquiry}
+      \field{number}{2}
+      \field{title}{A Parsing Theory of Word Order Universals}
+      \field{volume}{21}
+      \field{year}{1990}
+      \field{pages}{223\bibrangedash 261}
+      \range{pages}{39}
+    \endentry
+    \entry{Hawkins1994performance}{book}{}
+      \name{author}{1}{}{%
+        {{hash=96cb7e990af50532d70c774559454623}{%
+           family={Hawkins},
+           familyi={H\bibinitperiod},
+           given={John\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{96cb7e990af50532d70c774559454623}
+      \strng{fullhash}{96cb7e990af50532d70c774559454623}
+      \strng{bibnamehash}{96cb7e990af50532d70c774559454623}
+      \strng{authorbibnamehash}{96cb7e990af50532d70c774559454623}
+      \strng{authornamehash}{96cb7e990af50532d70c774559454623}
+      \strng{authorfullhash}{96cb7e990af50532d70c774559454623}
+      \field{extraname}{2}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Performance Theory of Order and Constituency}
+      \field{year}{1995}
+      \verb{doi}
+      \verb 10.1017/cbo9780511554285
+      \endverb
+    \endentry
+    \entry{lazard_langue_1963}{book}{}
+      \name{author}{1}{}{%
+        {{hash=352fbefb55da9332357ddbd1b4728b40}{%
+           family={Lazard},
+           familyi={L\bibinitperiod},
+           given={Gilbert},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Klincksieck}%
+      }
+      \strng{namehash}{352fbefb55da9332357ddbd1b4728b40}
+      \strng{fullhash}{352fbefb55da9332357ddbd1b4728b40}
+      \strng{bibnamehash}{352fbefb55da9332357ddbd1b4728b40}
+      \strng{authorbibnamehash}{352fbefb55da9332357ddbd1b4728b40}
+      \strng{authornamehash}{352fbefb55da9332357ddbd1b4728b40}
+      \strng{authorfullhash}{352fbefb55da9332357ddbd1b4728b40}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{La Langue des Plus Anciens Monuments de la Prose {Persane}}
+      \field{year}{1963}
+    \endentry
+    \entry{parizadeh_persian_2022}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=9afa700c25c5233c9bac2a4688c9b945}{%
+           family={Parizadeh},
+           familyi={P\bibinitperiod},
+           given={Mehdi},
+           giveni={M\bibinitperiod}}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=80c796a44fd8ebe5b5eb10b096753238}{%
+           family={Haig},
+           familyi={H\bibinitperiod},
+           given={Geoffrey},
+           giveni={G\bibinitperiod}}}%
+        {{hash=567b92f51776ce5d78db5bea72980534}{%
+           family={Stilo},
+           familyi={S\bibinitperiod},
+           given={Donald},
+           giveni={D\bibinitperiod}}}%
+        {{hash=c88d667f33c0f1abf81f70675145c102}{%
+           family={Doğan},
+           familyi={D\bibinitperiod},
+           given={Mahîr\bibnamedelima C.},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=1f19ec77fbceda0e0ae6b626d3eb694a}{%
+           family={Schiborr},
+           familyi={S\bibinitperiod},
+           given={Nils\bibnamedelima N.},
+           giveni={N\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Bamberg}%
+      }
+      \list{publisher}{1}{%
+        {University of Bamberg}%
+      }
+      \strng{namehash}{9afa700c25c5233c9bac2a4688c9b945}
+      \strng{fullhash}{9afa700c25c5233c9bac2a4688c9b945}
+      \strng{bibnamehash}{9afa700c25c5233c9bac2a4688c9b945}
+      \strng{authorbibnamehash}{9afa700c25c5233c9bac2a4688c9b945}
+      \strng{authornamehash}{9afa700c25c5233c9bac2a4688c9b945}
+      \strng{authorfullhash}{9afa700c25c5233c9bac2a4688c9b945}
+      \strng{editorbibnamehash}{3e571b5a38c58524167795f9a22a3b9c}
+      \strng{editornamehash}{e17d6db33b495bdb0b0d8a1960396d5a}
+      \strng{editorfullhash}{3e571b5a38c58524167795f9a22a3b9c}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{WOWA} — {Word} {Order} in {Western} {Asia}: {A} spoken-language-based corpus for investigating areal effects in word order variation}
+      \field{title}{{Persian} ({Early} New)}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb multicast.aspra.uni-bamberg.de/resources/wowa/
+      \endverb
+      \verb{url}
+      \verb multicast.aspra.uni-bamberg.de/resources/wowa/
+      \endverb
+    \endentry
+    \entry{paul_grammar_2013}{book}{}
+      \name{author}{1}{}{%
+        {{hash=01b47d393cccc5431c5fe480fd42359e}{%
+           family={Paul},
+           familyi={P\bibinitperiod},
+           given={Ludwig},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Reichert}%
+      }
+      \strng{namehash}{01b47d393cccc5431c5fe480fd42359e}
+      \strng{fullhash}{01b47d393cccc5431c5fe480fd42359e}
+      \strng{bibnamehash}{01b47d393cccc5431c5fe480fd42359e}
+      \strng{authorbibnamehash}{01b47d393cccc5431c5fe480fd42359e}
+      \strng{authornamehash}{01b47d393cccc5431c5fe480fd42359e}
+      \strng{authorfullhash}{01b47d393cccc5431c5fe480fd42359e}
+      \field{extraname}{1}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Grammar of Early {Judaeo}-{Persian}}
+      \field{year}{2013}
+    \endentry
+    \entry{paul_persian_2018}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=01b47d393cccc5431c5fe480fd42359e}{%
+           family={Paul},
+           familyi={P\bibinitperiod},
+           given={Ludwig},
+           giveni={L\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=80c796a44fd8ebe5b5eb10b096753238}{%
+           family={Haig},
+           familyi={H\bibinitperiod},
+           given={Geoffrey},
+           giveni={G\bibinitperiod}}}%
+        {{hash=ea25571ad631abc7c03e91d259568caa}{%
+           family={Khan},
+           familyi={K\bibinitperiod},
+           given={Geoffrey},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {De Gruyter Mouton}%
+      }
+      \strng{namehash}{01b47d393cccc5431c5fe480fd42359e}
+      \strng{fullhash}{01b47d393cccc5431c5fe480fd42359e}
+      \strng{bibnamehash}{01b47d393cccc5431c5fe480fd42359e}
+      \strng{authorbibnamehash}{01b47d393cccc5431c5fe480fd42359e}
+      \strng{authornamehash}{01b47d393cccc5431c5fe480fd42359e}
+      \strng{authorfullhash}{01b47d393cccc5431c5fe480fd42359e}
+      \strng{editorbibnamehash}{d95bbcd1da01c4001673eb31a0e8f6db}
+      \strng{editornamehash}{d95bbcd1da01c4001673eb31a0e8f6db}
+      \strng{editorfullhash}{d95bbcd1da01c4001673eb31a0e8f6db}
+      \field{extraname}{2}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Languages and Linguistics of {Western} {Asia}: {An} Areal Perspective}
+      \field{title}{Persian}
+      \field{year}{2019}
+      \field{pages}{569\bibrangedash 624}
+      \range{pages}{56}
+    \endentry
+    \entry{quirk_grammar_1972}{book}{}
+      \name{author}{4}{}{%
+        {{hash=d8afd0c1425b76048f3d2f5ac5cfcc5d}{%
+           family={Quirk},
+           familyi={Q\bibinitperiod},
+           given={Randolph},
+           giveni={R\bibinitperiod}}}%
+        {{hash=b9c3921ccea9989140c734fb47ee5223}{%
+           family={Greenbaum},
+           familyi={G\bibinitperiod},
+           given={Sidney},
+           giveni={S\bibinitperiod}}}%
+        {{hash=9d3776cd0d2ffaabb590987e732e2346}{%
+           family={Leech},
+           familyi={L\bibinitperiod},
+           given={Geoffrey},
+           giveni={G\bibinitperiod}}}%
+        {{hash=3bb23134679e5a4bae91b8854afbc977}{%
+           family={Svartvik},
+           familyi={S\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Longman}%
+      }
+      \strng{namehash}{960a90e97879b165095d4f154b02d373}
+      \strng{fullhash}{d3889e92c7740f616b1c1e0a063b7232}
+      \strng{bibnamehash}{d3889e92c7740f616b1c1e0a063b7232}
+      \strng{authorbibnamehash}{d3889e92c7740f616b1c1e0a063b7232}
+      \strng{authornamehash}{960a90e97879b165095d4f154b02d373}
+      \strng{authorfullhash}{d3889e92c7740f616b1c1e0a063b7232}
+      \field{sortinit}{Q}
+      \field{sortinithash}{ce69a400a872ddd02ee7fdb3b38c6abd}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Grammar of Contemporary {English}}
+      \field{year}{1972}
+    \endentry
+    \entry{RasekhMahand2016Relative}{article}{}
+      \name{author}{3}{}{%
+        {{hash=37a2cb27f28d49437b8c42e7b4d6dae2}{%
+           family={Rasekh-Mahand},
+           familyi={R\bibinithyphendelim M\bibinitperiod},
+           given={Mohammad},
+           giveni={M\bibinitperiod}}}%
+        {{hash=25c55bda160e5147bfa853aa1ced7b95}{%
+           family={Alizadeh-Sahraie},
+           familyi={A\bibinithyphendelim S\bibinitperiod},
+           given={Mojtaba},
+           giveni={M\bibinitperiod}}}%
+        {{hash=889e00528b2e8b2d45a79e67171375d6}{%
+           family={Izadifar},
+           familyi={I\bibinitperiod},
+           given={Raheleh},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{6ecb0acb9caa5884bf182d134e326366}
+      \strng{fullhash}{6a56e1ed3a0d361c60b59fcd59847095}
+      \strng{bibnamehash}{6a56e1ed3a0d361c60b59fcd59847095}
+      \strng{authorbibnamehash}{6a56e1ed3a0d361c60b59fcd59847095}
+      \strng{authornamehash}{6ecb0acb9caa5884bf182d134e326366}
+      \strng{authorfullhash}{6a56e1ed3a0d361c60b59fcd59847095}
+      \field{extraname}{1}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{22150390}
+      \field{journaltitle}{Ampersand}
+      \field{title}{A corpus-based analysis of relative clause extraposition in {Persian}}
+      \field{volume}{3}
+      \field{year}{2016}
+      \field{pages}{21\bibrangedash 31}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1016/j.amper.2016.02.001
+      \endverb
+    \endentry
+    \entry{chapters/7_RasekhMahandetal_Persian}{incollection}{}
+      \name{author}{5}{}{%
+        {{hash=37a2cb27f28d49437b8c42e7b4d6dae2}{%
+           family={Rasekh-Mahand},
+           familyi={R\bibinithyphendelim M\bibinitperiod},
+           given={Mohammad},
+           giveni={M\bibinitperiod}}}%
+        {{hash=847f5ddfe15590b7b3860ed65a721120}{%
+           family={Izadi},
+           familyi={I\bibinitperiod},
+           given={Elham},
+           giveni={E\bibinitperiod}}}%
+        {{hash=9afa700c25c5233c9bac2a4688c9b945}{%
+           family={Parizadeh},
+           familyi={P\bibinitperiod},
+           given={Mehdi},
+           giveni={M\bibinitperiod}}}%
+        {{hash=80c796a44fd8ebe5b5eb10b096753238}{%
+           family={Haig},
+           familyi={H\bibinitperiod},
+           given={Geoffrey},
+           giveni={G\bibinitperiod}}}%
+        {{hash=3daf2547902d67076f17a64293734318}{%
+           family={Schiborr},
+           familyi={S\bibinitperiod},
+           given={Nils},
+           giveni={N\bibinitperiod}}}%
+      }
+      \name{editor}{5}{}{%
+        {{hash=80c796a44fd8ebe5b5eb10b096753238}{%
+           family={Haig},
+           familyi={H\bibinitperiod},
+           given={Geoffrey},
+           giveni={G\bibinitperiod}}}%
+        {{hash=37a2cb27f28d49437b8c42e7b4d6dae2}{%
+           family={Rasekh-Mahand},
+           familyi={R\bibinithyphendelim M\bibinitperiod},
+           given={Mohammad},
+           giveni={M\bibinitperiod}}}%
+        {{hash=567b92f51776ce5d78db5bea72980534}{%
+           family={Stilo},
+           familyi={S\bibinitperiod},
+           given={Donald},
+           giveni={D\bibinitperiod}}}%
+        {{hash=6f1dd309e01c093026ced39fe8fb5354}{%
+           family={Schreiber},
+           familyi={S\bibinitperiod},
+           given={Laurentia},
+           giveni={L\bibinitperiod}}}%
+        {{hash=1f19ec77fbceda0e0ae6b626d3eb694a}{%
+           family={Schiborr},
+           familyi={S\bibinitperiod},
+           given={Nils\bibnamedelima N.},
+           giveni={N\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Language Science Press.}%
+      }
+      \strng{namehash}{6ecb0acb9caa5884bf182d134e326366}
+      \strng{fullhash}{d1a8f26be5ecfb4a0b54ef101b1d6125}
+      \strng{bibnamehash}{d1a8f26be5ecfb4a0b54ef101b1d6125}
+      \strng{authorbibnamehash}{d1a8f26be5ecfb4a0b54ef101b1d6125}
+      \strng{authornamehash}{6ecb0acb9caa5884bf182d134e326366}
+      \strng{authorfullhash}{d1a8f26be5ecfb4a0b54ef101b1d6125}
+      \strng{editorbibnamehash}{532482e2180145b058878893ba4b16cd}
+      \strng{editornamehash}{e17d6db33b495bdb0b0d8a1960396d5a}
+      \strng{editorfullhash}{532482e2180145b058878893ba4b16cd}
+      \field{extraname}{2}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Post-predicate elements in the Western Asian Transition Zone{: A corpus-based approach to areal typology}}}
+      \field{title}{{Post-predicate elements in modern colloquial Persian: A multifactorial analysis}}
+      \field{year}{2024}
+      \field{pages}{195\bibrangedash 228}
+      \range{pages}{34}
+      \verb{doi}
+      \verb ??
+      \endverb
+      \keyw{withinvolume}
+    \endentry
+    \entry{rasekh-mahand2024different}{article}{}
+      \name{author}{2}{}{%
+        {{hash=37a2cb27f28d49437b8c42e7b4d6dae2}{%
+           family={Rasekh-Mahand},
+           familyi={R\bibinithyphendelim M\bibinitperiod},
+           given={Mohammad},
+           giveni={M\bibinitperiod}}}%
+        {{hash=9afa700c25c5233c9bac2a4688c9b945}{%
+           family={Parizadeh},
+           familyi={P\bibinitperiod},
+           given={Mehdi},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{164754683b8182594cecb2a9993ad75f}
+      \strng{fullhash}{164754683b8182594cecb2a9993ad75f}
+      \strng{bibnamehash}{164754683b8182594cecb2a9993ad75f}
+      \strng{authorbibnamehash}{164754683b8182594cecb2a9993ad75f}
+      \strng{authornamehash}{164754683b8182594cecb2a9993ad75f}
+      \strng{authorfullhash}{164754683b8182594cecb2a9993ad75f}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Historical Linguistics}
+      \field{number}{1}
+      \field{title}{Different functions of ‘rā’ in {New Persian}; {A} semantic map analysis}
+      \field{volume}{14}
+      \field{year}{2024}
+      \field{pages}{31\bibrangedash 57}
+      \range{pages}{27}
+      \verb{doi}
+      \verb 10.1075/jhl.21056.ras
+      \endverb
+    \endentry
+    \entry{SchnellSchiborr2022Cross}{article}{}
+      \name{author}{2}{}{%
+        {{hash=4b8763dc6fb4257a1ffff80a5eb99fd3}{%
+           family={Schnell},
+           familyi={S\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=1f19ec77fbceda0e0ae6b626d3eb694a}{%
+           family={Schiborr},
+           familyi={S\bibinitperiod},
+           given={Nils\bibnamedelima N.},
+           giveni={N\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \strng{namehash}{507454ee97ea3dd39741abafc1c60e7d}
+      \strng{fullhash}{507454ee97ea3dd39741abafc1c60e7d}
+      \strng{bibnamehash}{507454ee97ea3dd39741abafc1c60e7d}
+      \strng{authorbibnamehash}{507454ee97ea3dd39741abafc1c60e7d}
+      \strng{authornamehash}{507454ee97ea3dd39741abafc1c60e7d}
+      \strng{authorfullhash}{507454ee97ea3dd39741abafc1c60e7d}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{23339691}
+      \field{journaltitle}{Annual Review of Linguistics}
+      \field{number}{1}
+      \field{title}{Crosslinguistic Corpus Studies in Linguistic Typology}
+      \field{volume}{8}
+      \field{year}{2022}
+      \field{pages}{171\bibrangedash 191}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1146/annurev-linguistics-031120-104629
+      \endverb
+    \endentry
+    \entry{Stallingsetal1998Phrasal}{article}{}
+      \name{author}{3}{}{%
+        {{hash=4dddcd8870872233cf721a49feafc58c}{%
+           family={Stallings},
+           familyi={S\bibinitperiod},
+           given={Lynne\bibnamedelima M.},
+           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=bdaccff89a2e0ac17afe2f997d68801e}{%
+           family={MacDonald},
+           familyi={M\bibinitperiod},
+           given={Maryellen\bibnamedelima C.},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=ece8f928f9b2b63137eccb78138d9109}{%
+           family={O'Seaghdha},
+           familyi={O\bibinitperiod},
+           given={Padraig\bibnamedelima G.},
+           giveni={P\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{537b24e642f2bb4748e1ccb5d2929567}
+      \strng{fullhash}{364a9ede99e2393a67469350ab503e55}
+      \strng{bibnamehash}{364a9ede99e2393a67469350ab503e55}
+      \strng{authorbibnamehash}{364a9ede99e2393a67469350ab503e55}
+      \strng{authornamehash}{537b24e642f2bb4748e1ccb5d2929567}
+      \strng{authorfullhash}{364a9ede99e2393a67469350ab503e55}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0749596X}
+      \field{journaltitle}{Journal of Memory and Language}
+      \field{number}{3}
+      \field{title}{Phrasal Ordering Constraints in Sentence Production: {Phrase} Length and Verb Disposition in Heavy-{NP} Shift}
+      \field{volume}{39}
+      \field{year}{1998}
+      \field{pages}{392\bibrangedash 417}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.1006/jmla.1998.2586
+      \endverb
+    \endentry
+    \entry{Wasow1997weight}{article}{}
+      \name{author}{1}{}{%
+        {{hash=e3f65d9a6876a6bd1c9e55f99d04cf09}{%
+           family={Wasow},
+           familyi={W\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{e3f65d9a6876a6bd1c9e55f99d04cf09}
+      \strng{fullhash}{e3f65d9a6876a6bd1c9e55f99d04cf09}
+      \strng{bibnamehash}{e3f65d9a6876a6bd1c9e55f99d04cf09}
+      \strng{authorbibnamehash}{e3f65d9a6876a6bd1c9e55f99d04cf09}
+      \strng{authornamehash}{e3f65d9a6876a6bd1c9e55f99d04cf09}
+      \strng{authorfullhash}{e3f65d9a6876a6bd1c9e55f99d04cf09}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{14698021}
+      \field{journaltitle}{Language Variation and Change}
+      \field{number}{1}
+      \field{title}{Remarks on grammatical weight}
+      \field{volume}{9}
+      \field{year}{1997}
+      \field{pages}{81\bibrangedash 105}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1017/S0954394500001800
+      \endverb
+    \endentry
+    \entry{YamashitaChang2001headfinal}{article}{}
+      \name{author}{2}{}{%
+        {{hash=2ba927bf42ac578b8560712fe7e5c514}{%
+           family={Yamashita},
+           familyi={Y\bibinitperiod},
+           given={Hiroko},
+           giveni={H\bibinitperiod}}}%
+        {{hash=91898ef35ecf63bdf969e88b50a8f86f}{%
+           family={Chang},
+           familyi={C\bibinitperiod},
+           given={Franklin},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{e3bbf841c56cd5a713b5768d0b7f0fce}
+      \strng{fullhash}{e3bbf841c56cd5a713b5768d0b7f0fce}
+      \strng{bibnamehash}{e3bbf841c56cd5a713b5768d0b7f0fce}
+      \strng{authorbibnamehash}{e3bbf841c56cd5a713b5768d0b7f0fce}
+      \strng{authornamehash}{e3bbf841c56cd5a713b5768d0b7f0fce}
+      \strng{authorfullhash}{e3bbf841c56cd5a713b5768d0b7f0fce}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00100277}
+      \field{journaltitle}{Cognition}
+      \field{number}{2}
+      \field{title}{``{Long} before short" preference in the production of a head-final language}
+      \field{volume}{81}
+      \field{year}{2001}
+      \field{pages}{B45\bibrangedash B55}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1016/S0010-0277(01)00121-4
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

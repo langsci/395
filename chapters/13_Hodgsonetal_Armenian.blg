@@ -1,0 +1,18 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is '13_Hodgsonetal_Armenian.blg'
+[84] biber:340> INFO - === Mon Nov 18, 2024, 17:08:51
+[98] Biber.pm:419> INFO - Reading '13_Hodgsonetal_Armenian.bcf'
+[182] Biber.pm:979> INFO - Found 35 citekeys in bib section 0
+[198] Biber.pm:4419> INFO - Processing section 0
+[235] Biber.pm:4610> INFO - Looking for bibtex file '../collection_tmp.bib' for section 0
+[237] bibtex.pm:1713> INFO - LaTeX decoding ...
+[285] bibtex.pm:1519> INFO - Found BibTeX data source '../collection_tmp.bib'
+[351] Biber.pm:4610> INFO - Looking for bibtex file '../localbibliography.bib' for section 0
+[372] bibtex.pm:1713> INFO - LaTeX decoding ...
+[1016] bibtex.pm:1519> INFO - Found BibTeX data source '../localbibliography.bib'
+[1286] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1286] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1286] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[1286] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[1323] bbl.pm:660> INFO - Writing '13_Hodgsonetal_Armenian.bbl' with encoding 'UTF-8'
+[1346] bbl.pm:763> INFO - Output to 13_Hodgsonetal_Armenian.bbl

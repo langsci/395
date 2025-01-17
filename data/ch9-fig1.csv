@@ -1,0 +1,11 @@
+Data	{CK Sanandaj}	{G. Gawraǰu} 	{SK Bijar}
+{caused goal}	0.96	0.98	0.97
+{goal}	0.88	0.94	0.95
+{become-complement}	1.00	0.86	0.93
+{recipients}	0.60	1.00	0.30
+{addressees}	0.92	0.46	0.00
+{locational copula complement}	1.00	0.60	0.00
+{other obliques}	0.31	0.39	0.32
+{place arguments}	0.17	0.42	0.15
+{copula complement}	0.03	0.09	0.02
+{direct object}	0.01	0.05	0.02

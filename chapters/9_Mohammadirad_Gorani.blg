@@ -1,0 +1,18 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is '9_Mohammadirad_Gorani.blg'
+[81] biber:340> INFO - === Mon Nov 18, 2024, 09:00:53
+[99] Biber.pm:419> INFO - Reading '9_Mohammadirad_Gorani.bcf'
+[187] Biber.pm:979> INFO - Found 38 citekeys in bib section 0
+[200] Biber.pm:4419> INFO - Processing section 0
+[210] Biber.pm:4610> INFO - Looking for bibtex file '../collection_tmp.bib' for section 0
+[212] bibtex.pm:1713> INFO - LaTeX decoding ...
+[260] bibtex.pm:1519> INFO - Found BibTeX data source '../collection_tmp.bib'
+[340] Biber.pm:4610> INFO - Looking for bibtex file '../localbibliography.bib' for section 0
+[361] bibtex.pm:1713> INFO - LaTeX decoding ...
+[995] bibtex.pm:1519> INFO - Found BibTeX data source '../localbibliography.bib'
+[1292] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1292] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1292] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[1292] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[1337] bbl.pm:660> INFO - Writing '9_Mohammadirad_Gorani.bbl' with encoding 'UTF-8'
+[1370] bbl.pm:763> INFO - Output to 9_Mohammadirad_Gorani.bbl

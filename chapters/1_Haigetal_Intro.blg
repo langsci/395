@@ -1,0 +1,18 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is '1_Haigetal_Intro.blg'
+[76] biber:340> INFO - === Fri Nov 15, 2024, 10:55:59
+[91] Biber.pm:419> INFO - Reading '1_Haigetal_Intro.bcf'
+[191] Biber.pm:979> INFO - Found 118 citekeys in bib section 0
+[204] Biber.pm:4419> INFO - Processing section 0
+[215] Biber.pm:4610> INFO - Looking for bibtex file '../localbibliography.bib' for section 0
+[235] bibtex.pm:1713> INFO - LaTeX decoding ...
+[839] bibtex.pm:1519> INFO - Found BibTeX data source '../localbibliography.bib'
+[1547] Biber.pm:4610> INFO - Looking for bibtex file '../collection_tmp.bib' for section 0
+[1549] bibtex.pm:1713> INFO - LaTeX decoding ...
+[1591] bibtex.pm:1519> INFO - Found BibTeX data source '../collection_tmp.bib'
+[1861] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1862] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1862] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[1862] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[1957] bbl.pm:660> INFO - Writing '1_Haigetal_Intro.bbl' with encoding 'UTF-8'
+[2035] bbl.pm:763> INFO - Output to 1_Haigetal_Intro.bbl

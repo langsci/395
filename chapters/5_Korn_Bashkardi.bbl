@@ -1,0 +1,1203 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{barbera_lingua_2005}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=e5c47c3a3d3830f832f8288d7d0dd36b}{%
+           family={Barbera},
+           familyi={B\bibinitperiod},
+           given={Gerardo},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Università degli Studi di Napoli “L’Orientale.”}%
+      }
+      \list{location}{1}{%
+        {Naples}%
+      }
+      \strng{namehash}{e5c47c3a3d3830f832f8288d7d0dd36b}
+      \strng{fullhash}{e5c47c3a3d3830f832f8288d7d0dd36b}
+      \strng{bibnamehash}{e5c47c3a3d3830f832f8288d7d0dd36b}
+      \strng{authorbibnamehash}{e5c47c3a3d3830f832f8288d7d0dd36b}
+      \strng{authornamehash}{e5c47c3a3d3830f832f8288d7d0dd36b}
+      \strng{authorfullhash}{e5c47c3a3d3830f832f8288d7d0dd36b}
+      \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Lingua e cultura a {Minab} ({Iran} sud-orientale). {Profilo} grammaticale, testi e vocabolario}
+      \field{type}{phdthesis}
+      \field{year}{2005}
+    \endentry
+    \entry{barbera_minabi_2020}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=e5c47c3a3d3830f832f8288d7d0dd36b}{%
+           family={Barbera},
+           familyi={B\bibinitperiod},
+           given={Gerardo},
+           giveni={G\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=265159b5e9ecb8240d6a067cea002a16}{%
+           family={Maggi},
+           familyi={M\bibinitperiod},
+           given={Mauro},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7fc079fddf3a07d65cf6a2c3f44f9d99}{%
+           family={Ashtiany},
+           familyi={A\bibinitperiod},
+           given={Mohsen},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Reichert}%
+      }
+      \strng{namehash}{e5c47c3a3d3830f832f8288d7d0dd36b}
+      \strng{fullhash}{e5c47c3a3d3830f832f8288d7d0dd36b}
+      \strng{bibnamehash}{e5c47c3a3d3830f832f8288d7d0dd36b}
+      \strng{authorbibnamehash}{e5c47c3a3d3830f832f8288d7d0dd36b}
+      \strng{authornamehash}{e5c47c3a3d3830f832f8288d7d0dd36b}
+      \strng{authorfullhash}{e5c47c3a3d3830f832f8288d7d0dd36b}
+      \strng{editorbibnamehash}{c38e2180a0c7cf11284e19c6ca801db6}
+      \strng{editornamehash}{c38e2180a0c7cf11284e19c6ca801db6}
+      \strng{editorfullhash}{c38e2180a0c7cf11284e19c6ca801db6}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{A Turquoise Coronet: {Studies} in {Persian} language and literature in honour of {Paola} {Orsatti}}
+      \field{title}{A {Minâbi} text and grammatical sketch}
+      \field{year}{2020}
+      \field{pages}{1\bibrangedash 13}
+      \range{pages}{13}
+    \endentry
+    \entry{barbera_cannibal_2023}{article}{}
+      \name{author}{1}{}{%
+        {{hash=e5c47c3a3d3830f832f8288d7d0dd36b}{%
+           family={Barbera},
+           familyi={B\bibinitperiod},
+           given={Gerardo},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{e5c47c3a3d3830f832f8288d7d0dd36b}
+      \strng{fullhash}{e5c47c3a3d3830f832f8288d7d0dd36b}
+      \strng{bibnamehash}{e5c47c3a3d3830f832f8288d7d0dd36b}
+      \strng{authorbibnamehash}{e5c47c3a3d3830f832f8288d7d0dd36b}
+      \strng{authornamehash}{e5c47c3a3d3830f832f8288d7d0dd36b}
+      \strng{authorfullhash}{e5c47c3a3d3830f832f8288d7d0dd36b}
+      \field{extraname}{3}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Folia Orientalia}
+      \field{title}{The Cannibal Sister: {Linguistic} Annotation of a {South} {Bashkardi} Folktale}
+      \field{volume}{60}
+      \field{year}{2023}
+      \field{pages}{145\bibrangedash 187}
+      \range{pages}{43}
+      \verb{doi}
+      \verb 10.24425/for.2023.148422
+      \endverb
+    \endentry
+    \entry{barbera2024Fool}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=e5c47c3a3d3830f832f8288d7d0dd36b}{%
+           family={Barbera},
+           familyi={B\bibinitperiod},
+           given={Gerardo},
+           giveni={G\bibinitperiod}}}%
+      }
+      \name{editor}{6}{}{%
+        {{hash=e5c47c3a3d3830f832f8288d7d0dd36b}{%
+           family={Barbera},
+           familyi={B\bibinitperiod},
+           given={Gerardo},
+           giveni={G\bibinitperiod}}}%
+        {{hash=12f9bf3dc4104bdee56a26a88dd854af}{%
+           family={De\bibnamedelima Chiara},
+           familyi={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Matteo},
+           giveni={M\bibinitperiod}}}%
+        {{hash=cd2ed5deb32591f2460ff8c447964508}{%
+           family={Del\bibnamedelima Tomba},
+           familyi={D\bibinitperiod\bibinitdelim T\bibinitperiod},
+           given={Alessandro},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5a884ba5d6509fbcbe48d697cf06eb88}{%
+           family={Dhammadinnā},
+           familyi={D\bibinitperiod},
+           given={Bhikkhunī},
+           giveni={B\bibinitperiod}}}%
+        {{hash=24040ccb71dccf1aa72625f7a66e1b23}{%
+           family={Dragoni},
+           familyi={D\bibinitperiod},
+           given={Federico},
+           giveni={F\bibinitperiod}}}%
+        {{hash=a5f96edefd834c3642d18f739ff69dba}{%
+           family={Orsatti},
+           familyi={O\bibinitperiod},
+           given={Paola},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Reichert}%
+      }
+      \strng{namehash}{e5c47c3a3d3830f832f8288d7d0dd36b}
+      \strng{fullhash}{e5c47c3a3d3830f832f8288d7d0dd36b}
+      \strng{bibnamehash}{e5c47c3a3d3830f832f8288d7d0dd36b}
+      \strng{authorbibnamehash}{e5c47c3a3d3830f832f8288d7d0dd36b}
+      \strng{authornamehash}{e5c47c3a3d3830f832f8288d7d0dd36b}
+      \strng{authorfullhash}{e5c47c3a3d3830f832f8288d7d0dd36b}
+      \strng{editorbibnamehash}{59645790d8bf4478a9c7d28e42d888a8}
+      \strng{editornamehash}{8f10825968eb144cbdad9b71926a0db1}
+      \strng{editorfullhash}{59645790d8bf4478a9c7d28e42d888a8}
+      \field{extraname}{4}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Siddham}. {Studies} in {Iranian} philology in honour of {Mauro Maggi}}
+      \field{title}{A fool's story in a {South Bashkardi} sub-dialect text}
+      \field{year}{2024}
+      \field{pages}{1\bibrangedash 18}
+      \range{pages}{18}
+    \endentry
+    \entry{gershevitch_travels_1959}{article}{}
+      \name{author}{1}{}{%
+        {{hash=52575d637a81196dd3cddb9718b42adf}{%
+           family={Gershevitch},
+           familyi={G\bibinitperiod},
+           given={Ilya},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{52575d637a81196dd3cddb9718b42adf}
+      \strng{fullhash}{52575d637a81196dd3cddb9718b42adf}
+      \strng{bibnamehash}{52575d637a81196dd3cddb9718b42adf}
+      \strng{authorbibnamehash}{52575d637a81196dd3cddb9718b42adf}
+      \strng{authornamehash}{52575d637a81196dd3cddb9718b42adf}
+      \strng{authorfullhash}{52575d637a81196dd3cddb9718b42adf}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the Central Asian Society}
+      \field{title}{Travels in {Bashkardia}}
+      \field{volume}{46}
+      \field{year}{1959}
+      \field{pages}{213\bibrangedash 225}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1080/03068375908731669
+      \endverb
+    \endentry
+    \entry{Haig2022PostPredicateCon}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=80c796a44fd8ebe5b5eb10b096753238}{%
+           family={Haig},
+           familyi={H\bibinitperiod},
+           given={Geoffrey},
+           giveni={G\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=dc7f932b5508a1a2824174883e8e556a}{%
+           family={Matras},
+           familyi={M\bibinitperiod},
+           given={Yaron},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=80c796a44fd8ebe5b5eb10b096753238}{%
+           family={Haig},
+           familyi={H\bibinitperiod},
+           given={Geoffrey},
+           giveni={G\bibinitperiod}}}%
+        {{hash=11aed8c7e789fdab1791bbb2ed67f553}{%
+           family={Öpengin},
+           familyi={Ö\bibinitperiod},
+           given={Ergin},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{80c796a44fd8ebe5b5eb10b096753238}
+      \strng{fullhash}{80c796a44fd8ebe5b5eb10b096753238}
+      \strng{bibnamehash}{80c796a44fd8ebe5b5eb10b096753238}
+      \strng{authorbibnamehash}{80c796a44fd8ebe5b5eb10b096753238}
+      \strng{authornamehash}{80c796a44fd8ebe5b5eb10b096753238}
+      \strng{authorfullhash}{80c796a44fd8ebe5b5eb10b096753238}
+      \strng{editorbibnamehash}{02248325c083d6a46b661c6e93897617}
+      \strng{editornamehash}{4633d067b30a570ce7b5ffbf3c671e05}
+      \strng{editorfullhash}{02248325c083d6a46b661c6e93897617}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Structural and Typological Variation in the Dialects of {Kurdish}}
+      \field{title}{Post-Predicate Constituents in {Kurdish}}
+      \field{year}{2022}
+      \field{pages}{335\bibrangedash 377}
+      \range{pages}{43}
+      \verb{doi}
+      \verb 10.1007/978-3-030-78837-7_8
+      \endverb
+    \endentry
+    \entry{chapters/1_Haigetal_Intro}{incollection}{}
+      \name{author}{5}{}{%
+        {{hash=50d88220ec764e5bf73f00476c66fc0c}{%
+           family={Haig},
+           familyi={H\bibinitperiod}}}%
+        {{hash=bd42367006c4688c4cfe5d4f16781800}{%
+           family={Rasekh-Mahend},
+           familyi={R\bibinithyphendelim M\bibinitperiod}}}%
+        {{hash=60aa2ea8956c338104610b6a82abe65e}{%
+           family={Stilo},
+           familyi={S\bibinitperiod}}}%
+        {{hash=eba4ce31a702df1ff9f767d3f7e9bdaa}{%
+           family={Schreiber},
+           familyi={S\bibinitperiod}}}%
+        {{hash=3b1ac414acffd822aeede2dcc003c0a4}{%
+           family={Schiborr},
+           familyi={S\bibinitperiod}}}%
+      }
+      \name{editor}{5}{}{%
+        {{hash=80c796a44fd8ebe5b5eb10b096753238}{%
+           family={Haig},
+           familyi={H\bibinitperiod},
+           given={Geoffrey},
+           giveni={G\bibinitperiod}}}%
+        {{hash=37a2cb27f28d49437b8c42e7b4d6dae2}{%
+           family={Rasekh-Mahand},
+           familyi={R\bibinithyphendelim M\bibinitperiod},
+           given={Mohammad},
+           giveni={M\bibinitperiod}}}%
+        {{hash=567b92f51776ce5d78db5bea72980534}{%
+           family={Stilo},
+           familyi={S\bibinitperiod},
+           given={Donald},
+           giveni={D\bibinitperiod}}}%
+        {{hash=6f1dd309e01c093026ced39fe8fb5354}{%
+           family={Schreiber},
+           familyi={S\bibinitperiod},
+           given={Laurentia},
+           giveni={L\bibinitperiod}}}%
+        {{hash=1f19ec77fbceda0e0ae6b626d3eb694a}{%
+           family={Schiborr},
+           familyi={S\bibinitperiod},
+           given={Nils\bibnamedelima N.},
+           giveni={N\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Language Science Press.}%
+      }
+      \strng{namehash}{914cfff4acb8dec50fac42630a3dec03}
+      \strng{fullhash}{0136c05b56f4b1e72de094475bc2ac2f}
+      \strng{bibnamehash}{0136c05b56f4b1e72de094475bc2ac2f}
+      \strng{authorbibnamehash}{0136c05b56f4b1e72de094475bc2ac2f}
+      \strng{authornamehash}{914cfff4acb8dec50fac42630a3dec03}
+      \strng{authorfullhash}{0136c05b56f4b1e72de094475bc2ac2f}
+      \strng{editorbibnamehash}{532482e2180145b058878893ba4b16cd}
+      \strng{editornamehash}{e17d6db33b495bdb0b0d8a1960396d5a}
+      \strng{editorfullhash}{532482e2180145b058878893ba4b16cd}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Post-predicate elements in the Western Asian Transition Zone{: A corpus-based approach to areal typology}}}
+      \field{title}{{Post-predicate elements in the Western Asian Transition Zone: Data, theory, and methods}}
+      \field{year}{2024}
+      \field{pages}{3\bibrangedash 53}
+      \range{pages}{51}
+      \verb{doi}
+      \verb ??
+      \endverb
+      \keyw{withinvolume}
+    \endentry
+    \entry{jugel_word_2022}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=f85938ac11cd1a18ad479972c0406378}{%
+           family={Jügel},
+           familyi={J\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=7f87aeb43ad7708b9949359fa3fe8b42}{%
+           family={Asadpour},
+           familyi={A\bibinitperiod},
+           given={Hiwa},
+           giveni={H\bibinitperiod}}}%
+        {{hash=f85938ac11cd1a18ad479972c0406378}{%
+           family={Jügel},
+           familyi={J\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {De Gruyter Mouton}%
+      }
+      \strng{namehash}{f85938ac11cd1a18ad479972c0406378}
+      \strng{fullhash}{f85938ac11cd1a18ad479972c0406378}
+      \strng{bibnamehash}{f85938ac11cd1a18ad479972c0406378}
+      \strng{authorbibnamehash}{f85938ac11cd1a18ad479972c0406378}
+      \strng{authornamehash}{f85938ac11cd1a18ad479972c0406378}
+      \strng{authorfullhash}{f85938ac11cd1a18ad479972c0406378}
+      \strng{editorbibnamehash}{4557676bcb47502439d7c50c97d588e3}
+      \strng{editornamehash}{4557676bcb47502439d7c50c97d588e3}
+      \strng{editorfullhash}{4557676bcb47502439d7c50c97d588e3}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Word Order Variation – {Semitic}, {Turkic} and {Indo}-{European} Languages in Contact}
+      \field{title}{Word order variation in {Middle} {Iranic}: {Persian}, {Parthian}, {Bactrian}, and {Sogdian}}
+      \field{year}{2022}
+      \field{pages}{39\bibrangedash 62}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.1515/9783110790368-003
+      \endverb
+    \endentry
+    \entry{korn_voices_2015}{article}{}
+      \name{author}{1}{}{%
+        {{hash=01bb9034b6749be9cecaba9272646493}{%
+           family={Korn},
+           familyi={K\bibinitperiod},
+           given={Agnes},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{01bb9034b6749be9cecaba9272646493}
+      \strng{fullhash}{01bb9034b6749be9cecaba9272646493}
+      \strng{bibnamehash}{01bb9034b6749be9cecaba9272646493}
+      \strng{authorbibnamehash}{01bb9034b6749be9cecaba9272646493}
+      \strng{authornamehash}{01bb9034b6749be9cecaba9272646493}
+      \strng{authorfullhash}{01bb9034b6749be9cecaba9272646493}
+      \field{extraname}{1}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{INDIRAN: Newsletter of the Ancient India and Iran Trust}
+      \field{title}{Voices from far away: {Bashkardi} material at the {Ancient India} and {Iran} {Trust}}
+      \field{volume}{10}
+      \field{year}{2015}
+      \field{pages}{4\bibrangedash 5}
+      \range{pages}{2}
+      \verb{urlraw}
+      \verb https://indiairantrust.files.wordpress.com/2015/07/indiran10forwebsite.pdf
+      \endverb
+      \verb{url}
+      \verb https://indiairantrust.files.wordpress.com/2015/07/indiran10forwebsite.pdf
+      \endverb
+    \endentry
+    \entry{korn_notes_2017}{article}{}
+      \name{author}{1}{}{%
+        {{hash=01bb9034b6749be9cecaba9272646493}{%
+           family={Korn},
+           familyi={K\bibinitperiod},
+           given={Agnes},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{01bb9034b6749be9cecaba9272646493}
+      \strng{fullhash}{01bb9034b6749be9cecaba9272646493}
+      \strng{bibnamehash}{01bb9034b6749be9cecaba9272646493}
+      \strng{authorbibnamehash}{01bb9034b6749be9cecaba9272646493}
+      \strng{authornamehash}{01bb9034b6749be9cecaba9272646493}
+      \strng{authorfullhash}{01bb9034b6749be9cecaba9272646493}
+      \field{extraname}{2}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Transactions of the Philological Society}
+      \field{title}{Notes on the Nominal System of {Bashkardi}}
+      \field{volume}{115}
+      \field{year}{2017}
+      \field{pages}{79\bibrangedash 97}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1111/1467-968X.12087
+      \endverb
+    \endentry
+    \entry{korn_once_2020}{article}{}
+      \name{author}{1}{}{%
+        {{hash=01bb9034b6749be9cecaba9272646493}{%
+           family={Korn},
+           familyi={K\bibinitperiod},
+           given={Agnes},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{01bb9034b6749be9cecaba9272646493}
+      \strng{fullhash}{01bb9034b6749be9cecaba9272646493}
+      \strng{bibnamehash}{01bb9034b6749be9cecaba9272646493}
+      \strng{authorbibnamehash}{01bb9034b6749be9cecaba9272646493}
+      \strng{authornamehash}{01bb9034b6749be9cecaba9272646493}
+      \strng{authorfullhash}{01bb9034b6749be9cecaba9272646493}
+      \field{extraname}{3}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{INDIRAN: Newsletter of the Ancient India and Iran Trust}
+      \field{title}{Once upon a time: {Telling} a story in {Bashkardi}}
+      \field{volume}{14}
+      \field{year}{2020}
+      \field{pages}{8\bibrangedash 9}
+      \range{pages}{2}
+      \verb{urlraw}
+      \verb https://www.indiran.org/wp-content/uploads/2020/11/INDIRAN-14-web-version.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.indiran.org/wp-content/uploads/2020/11/INDIRAN-14-web-version.pdf
+      \endverb
+    \endentry
+    \entry{korn_bashkardi_2021}{article}{}
+      \name{author}{1}{}{%
+        {{hash=01bb9034b6749be9cecaba9272646493}{%
+           family={Korn},
+           familyi={K\bibinitperiod},
+           given={Agnes},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{01bb9034b6749be9cecaba9272646493}
+      \strng{fullhash}{01bb9034b6749be9cecaba9272646493}
+      \strng{bibnamehash}{01bb9034b6749be9cecaba9272646493}
+      \strng{authorbibnamehash}{01bb9034b6749be9cecaba9272646493}
+      \strng{authornamehash}{01bb9034b6749be9cecaba9272646493}
+      \strng{authorfullhash}{01bb9034b6749be9cecaba9272646493}
+      \field{extraname}{4}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Rodnoj jazyk / Родной язык \textup{2021/1}}
+      \field{title}{A {Bashkardi} Version of the {Chain Tale} {ATU} 2034: {The} {Jackal Retrieves His Tail} / {Цепочная} сказка {ATU} 2034: {Версия} башкарди «{Шакал} вновь обретает свой хвост»}
+      \field{year}{2021}
+      \field{pages}{368\bibrangedash 383}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.37892/2313-5816-2021-1-368-383
+      \endverb
+    \endentry
+    \entry{korn_greeting_2021}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=01bb9034b6749be9cecaba9272646493}{%
+           family={Korn},
+           familyi={K\bibinitperiod},
+           given={Agnes},
+           giveni={A\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=ecb28f3098f667052c4334d3fdb3a41b}{%
+           family={Nevskaya},
+           familyi={N\bibinitperiod},
+           given={Irina},
+           giveni={I\bibinitperiod}}}%
+        {{hash=b0648b05eff9d676c36522eda4e48160}{%
+           family={Şirin},
+           familyi={Ş\bibinitperiod},
+           given={Hatice},
+           giveni={H\bibinitperiod}}}%
+        {{hash=3444c12d97729f1276c4679c8f75cb7e}{%
+           family={Ağca},
+           familyi={A\bibinitperiod},
+           given={Ferruh},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{01bb9034b6749be9cecaba9272646493}
+      \strng{fullhash}{01bb9034b6749be9cecaba9272646493}
+      \strng{bibnamehash}{01bb9034b6749be9cecaba9272646493}
+      \strng{authorbibnamehash}{01bb9034b6749be9cecaba9272646493}
+      \strng{authornamehash}{01bb9034b6749be9cecaba9272646493}
+      \strng{authorfullhash}{01bb9034b6749be9cecaba9272646493}
+      \strng{editorbibnamehash}{4c4c7c8e85b7fd430e57670bc58c5787}
+      \strng{editornamehash}{7bb78690533c97dc18aac772aa32840a}
+      \strng{editorfullhash}{4c4c7c8e85b7fd430e57670bc58c5787}
+      \field{extraname}{5}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Journal of Turkish Studies / Türklük Bilgisi Araştırmaları, 2022, Festschrift in Honor of Marcel Erdal, 2021 / Special edition vol. I}}
+      \field{title}{Greeting a guest in {Bashkardi}}
+      \field{year}{2021}
+      \field{pages}{301\bibrangedash 323}
+      \range{pages}{23}
+      \verb{urlraw}
+      \verb https://shs.hal.science/halshs-03671438
+      \endverb
+      \verb{url}
+      \verb https://shs.hal.science/halshs-03671438
+      \endverb
+    \endentry
+    \entry{korn2022areal}{unpublished}{}
+      \name{author}{1}{}{%
+        {{hash=01bb9034b6749be9cecaba9272646493}{%
+           family={Korn},
+           familyi={K\bibinitperiod},
+           given={Agnes},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{01bb9034b6749be9cecaba9272646493}
+      \strng{fullhash}{01bb9034b6749be9cecaba9272646493}
+      \strng{bibnamehash}{01bb9034b6749be9cecaba9272646493}
+      \strng{authorbibnamehash}{01bb9034b6749be9cecaba9272646493}
+      \strng{authornamehash}{01bb9034b6749be9cecaba9272646493}
+      \strng{authorfullhash}{01bb9034b6749be9cecaba9272646493}
+      \field{extraname}{6}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Paper presented at the \textit{{Iranian} Languages and Linguistics Lecture Series}, Toronto}
+      \field{title}{Areal Features in the Languages of {South Iran}: {Focus} on {Balochi} and {Baskhardi}}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://halshs.archives-ouvertes.fr/halshs-03622909
+      \endverb
+      \verb{url}
+      \verb https://halshs.archives-ouvertes.fr/halshs-03622909
+      \endverb
+    \endentry
+    \entry{Korn2022Targets}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=01bb9034b6749be9cecaba9272646493}{%
+           family={Korn},
+           familyi={K\bibinitperiod},
+           given={Agnes},
+           giveni={A\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=7f87aeb43ad7708b9949359fa3fe8b42}{%
+           family={Asadpour},
+           familyi={A\bibinitperiod},
+           given={Hiwa},
+           giveni={H\bibinitperiod}}}%
+        {{hash=f85938ac11cd1a18ad479972c0406378}{%
+           family={Jügel},
+           familyi={J\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {De Gruyter Mouton}%
+      }
+      \strng{namehash}{01bb9034b6749be9cecaba9272646493}
+      \strng{fullhash}{01bb9034b6749be9cecaba9272646493}
+      \strng{bibnamehash}{01bb9034b6749be9cecaba9272646493}
+      \strng{authorbibnamehash}{01bb9034b6749be9cecaba9272646493}
+      \strng{authornamehash}{01bb9034b6749be9cecaba9272646493}
+      \strng{authorfullhash}{01bb9034b6749be9cecaba9272646493}
+      \strng{editorbibnamehash}{4557676bcb47502439d7c50c97d588e3}
+      \strng{editornamehash}{4557676bcb47502439d7c50c97d588e3}
+      \strng{editorfullhash}{4557676bcb47502439d7c50c97d588e3}
+      \field{extraname}{7}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Word Order Variation – {Semitic}, {Turkic} and {Indo}-{European} Languages in Contact}
+      \field{title}{Targets and other post-verbal arguments in {Southern} {Balochi}: {A} multidimensional cline}
+      \field{year}{2022}
+      \field{pages}{89\bibrangedash 128}
+      \range{pages}{40}
+      \verb{doi}
+      \verb 10.1515/9783110790368-005
+      \endverb
+    \endentry
+    \entry{korn_bashkardi_N_2022}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=01bb9034b6749be9cecaba9272646493}{%
+           family={Korn},
+           familyi={K\bibinitperiod},
+           given={Agnes},
+           giveni={A\bibinitperiod}}}%
+        {{hash=52575d637a81196dd3cddb9718b42adf}{%
+           family={Gershevitch},
+           familyi={G\bibinitperiod},
+           given={Ilya},
+           giveni={I\bibinitperiod}}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=80c796a44fd8ebe5b5eb10b096753238}{%
+           family={Haig},
+           familyi={H\bibinitperiod},
+           given={Geoffrey},
+           giveni={G\bibinitperiod}}}%
+        {{hash=567b92f51776ce5d78db5bea72980534}{%
+           family={Stilo},
+           familyi={S\bibinitperiod},
+           given={Donald},
+           giveni={D\bibinitperiod}}}%
+        {{hash=c88d667f33c0f1abf81f70675145c102}{%
+           family={Doğan},
+           familyi={D\bibinitperiod},
+           given={Mahîr\bibnamedelima C.},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=1f19ec77fbceda0e0ae6b626d3eb694a}{%
+           family={Schiborr},
+           familyi={S\bibinitperiod},
+           given={Nils\bibnamedelima N.},
+           giveni={N\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Bamberg}%
+      }
+      \list{publisher}{1}{%
+        {University of Bamberg}%
+      }
+      \strng{namehash}{06444698b8181b3185caddb18d602d18}
+      \strng{fullhash}{06444698b8181b3185caddb18d602d18}
+      \strng{bibnamehash}{06444698b8181b3185caddb18d602d18}
+      \strng{authorbibnamehash}{06444698b8181b3185caddb18d602d18}
+      \strng{authornamehash}{06444698b8181b3185caddb18d602d18}
+      \strng{authorfullhash}{06444698b8181b3185caddb18d602d18}
+      \strng{editorbibnamehash}{3e571b5a38c58524167795f9a22a3b9c}
+      \strng{editornamehash}{e17d6db33b495bdb0b0d8a1960396d5a}
+      \strng{editorfullhash}{3e571b5a38c58524167795f9a22a3b9c}
+      \field{extraname}{1}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booksubtitle}{{A spoken-language-based corpus for investigating areal effects in word order variation}}
+      \field{booktitle}{{{WOWA — Word Order in Western Asia}}}
+      \field{subtitle}{{Recordings by Ilya Gershevitch (1914–2001), transcription and analysis by Agnes Korn}}
+      \field{title}{{Bashkardi (Northern)}}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb multicast.aspra.uni-bamberg.de/resources/wowa/
+      \endverb
+      \verb{url}
+      \verb multicast.aspra.uni-bamberg.de/resources/wowa/
+      \endverb
+    \endentry
+    \entry{korn_bashkardi_S_2022}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=01bb9034b6749be9cecaba9272646493}{%
+           family={Korn},
+           familyi={K\bibinitperiod},
+           given={Agnes},
+           giveni={A\bibinitperiod}}}%
+        {{hash=52575d637a81196dd3cddb9718b42adf}{%
+           family={Gershevitch},
+           familyi={G\bibinitperiod},
+           given={Ilya},
+           giveni={I\bibinitperiod}}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=80c796a44fd8ebe5b5eb10b096753238}{%
+           family={Haig},
+           familyi={H\bibinitperiod},
+           given={Geoffrey},
+           giveni={G\bibinitperiod}}}%
+        {{hash=567b92f51776ce5d78db5bea72980534}{%
+           family={Stilo},
+           familyi={S\bibinitperiod},
+           given={Donald},
+           giveni={D\bibinitperiod}}}%
+        {{hash=c88d667f33c0f1abf81f70675145c102}{%
+           family={Doğan},
+           familyi={D\bibinitperiod},
+           given={Mahîr\bibnamedelima C.},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=1f19ec77fbceda0e0ae6b626d3eb694a}{%
+           family={Schiborr},
+           familyi={S\bibinitperiod},
+           given={Nils\bibnamedelima N.},
+           giveni={N\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Bamberg}%
+      }
+      \list{publisher}{1}{%
+        {University of Bamberg}%
+      }
+      \strng{namehash}{06444698b8181b3185caddb18d602d18}
+      \strng{fullhash}{06444698b8181b3185caddb18d602d18}
+      \strng{bibnamehash}{06444698b8181b3185caddb18d602d18}
+      \strng{authorbibnamehash}{06444698b8181b3185caddb18d602d18}
+      \strng{authornamehash}{06444698b8181b3185caddb18d602d18}
+      \strng{authorfullhash}{06444698b8181b3185caddb18d602d18}
+      \strng{editorbibnamehash}{3e571b5a38c58524167795f9a22a3b9c}
+      \strng{editornamehash}{e17d6db33b495bdb0b0d8a1960396d5a}
+      \strng{editorfullhash}{3e571b5a38c58524167795f9a22a3b9c}
+      \field{extraname}{2}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booksubtitle}{{A spoken-language-based corpus for investigating areal effects in word order variation}}
+      \field{booktitle}{{{WOWA — Word Order in Western Asia}}}
+      \field{subtitle}{{Recordings by Ilya Gershevitch (1914–2001), transcription and analysis by Agnes Korn}}
+      \field{title}{{Bashkardi (Southern)}}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb multicast.aspra.uni-bamberg.de/resources/wowa/
+      \endverb
+      \verb{url}
+      \verb multicast.aspra.uni-bamberg.de/resources/wowa/
+      \endverb
+    \endentry
+    \entry{korn_notes_2019}{article}{}
+      \name{author}{2}{}{%
+        {{hash=01bb9034b6749be9cecaba9272646493}{%
+           family={Korn},
+           familyi={K\bibinitperiod},
+           given={Agnes},
+           giveni={A\bibinitperiod}}}%
+        {{hash=10d5e1e4f7fb17178e6bf7b4be0fd4f1}{%
+           family={Nourzaei},
+           familyi={N\bibinitperiod},
+           given={Maryam},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{c3f00e42fbc82a20ff2881b5aceef2c0}
+      \strng{fullhash}{c3f00e42fbc82a20ff2881b5aceef2c0}
+      \strng{bibnamehash}{c3f00e42fbc82a20ff2881b5aceef2c0}
+      \strng{authorbibnamehash}{c3f00e42fbc82a20ff2881b5aceef2c0}
+      \strng{authornamehash}{c3f00e42fbc82a20ff2881b5aceef2c0}
+      \strng{authorfullhash}{c3f00e42fbc82a20ff2881b5aceef2c0}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the Royal Asiatic Society}
+      \field{title}{Notes on the speech of the {Afro}-{Baloch} of the southern coast of {Iran}}
+      \field{volume}{29}
+      \field{year}{2019}
+      \field{pages}{623\bibrangedash 657}
+      \range{pages}{35}
+      \verb{doi}
+      \verb 10.1017/S1356186319000300
+      \endverb
+    \endentry
+    \entry{korn2017contact}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=01bb9034b6749be9cecaba9272646493}{%
+           family={Korn},
+           familyi={K\bibinitperiod},
+           given={Agnes},
+           giveni={A\bibinitperiod}}}%
+        {{hash=4a2cbbb75590c9f946919c0e507c4593}{%
+           family={Suleymanov},
+           familyi={S\bibinitperiod},
+           given={Murad},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{c9beee9709ef1fccdbfb2b3c04c2db07}
+      \strng{fullhash}{c9beee9709ef1fccdbfb2b3c04c2db07}
+      \strng{bibnamehash}{c9beee9709ef1fccdbfb2b3c04c2db07}
+      \strng{authorbibnamehash}{c9beee9709ef1fccdbfb2b3c04c2db07}
+      \strng{authornamehash}{c9beee9709ef1fccdbfb2b3c04c2db07}
+      \strng{authorfullhash}{c9beee9709ef1fccdbfb2b3c04c2db07}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Paper presented at the Conference “Historical Linguistics of the Caucasus”, Paris}
+      \field{title}{\textup{Contact-Induced Progressives in {Iranian} Languages: {A} Typological Comparison of {Caucasian} {Tat} and {Bashkardi}}}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://hal.archives-ouvertes.fr/hal-01516383
+      \endverb
+      \verb{url}
+      \verb https://hal.archives-ouvertes.fr/hal-01516383
+      \endverb
+    \endentry
+    \entry{chapters/9_Mohammadirad_Gorani}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=5692829bb20c8646668d4caaef6df086}{%
+           family={Mohammadirad},
+           familyi={M\bibinitperiod},
+           given={Masoud},
+           giveni={M\bibinitperiod}}}%
+      }
+      \name{editor}{5}{}{%
+        {{hash=80c796a44fd8ebe5b5eb10b096753238}{%
+           family={Haig},
+           familyi={H\bibinitperiod},
+           given={Geoffrey},
+           giveni={G\bibinitperiod}}}%
+        {{hash=37a2cb27f28d49437b8c42e7b4d6dae2}{%
+           family={Rasekh-Mahand},
+           familyi={R\bibinithyphendelim M\bibinitperiod},
+           given={Mohammad},
+           giveni={M\bibinitperiod}}}%
+        {{hash=567b92f51776ce5d78db5bea72980534}{%
+           family={Stilo},
+           familyi={S\bibinitperiod},
+           given={Donald},
+           giveni={D\bibinitperiod}}}%
+        {{hash=6f1dd309e01c093026ced39fe8fb5354}{%
+           family={Schreiber},
+           familyi={S\bibinitperiod},
+           given={Laurentia},
+           giveni={L\bibinitperiod}}}%
+        {{hash=1f19ec77fbceda0e0ae6b626d3eb694a}{%
+           family={Schiborr},
+           familyi={S\bibinitperiod},
+           given={Nils\bibnamedelima N.},
+           giveni={N\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Language Science Press.}%
+      }
+      \strng{namehash}{5692829bb20c8646668d4caaef6df086}
+      \strng{fullhash}{5692829bb20c8646668d4caaef6df086}
+      \strng{bibnamehash}{5692829bb20c8646668d4caaef6df086}
+      \strng{authorbibnamehash}{5692829bb20c8646668d4caaef6df086}
+      \strng{authornamehash}{5692829bb20c8646668d4caaef6df086}
+      \strng{authorfullhash}{5692829bb20c8646668d4caaef6df086}
+      \strng{editorbibnamehash}{532482e2180145b058878893ba4b16cd}
+      \strng{editornamehash}{e17d6db33b495bdb0b0d8a1960396d5a}
+      \strng{editorfullhash}{532482e2180145b058878893ba4b16cd}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Post-predicate elements in the Western Asian Transition Zone{: A corpus-based approach to areal typology}}}
+      \field{title}{{Zagros region: The Kurdish-Gorani continuum}}
+      \field{year}{2024}
+      \field{pages}{243\bibrangedash 277}
+      \range{pages}{35}
+      \verb{doi}
+      \verb ??
+      \endverb
+      \keyw{withinvolume}
+    \endentry
+    \entry{chapters/4_NourzaeiHaig_Balochi}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=10d5e1e4f7fb17178e6bf7b4be0fd4f1}{%
+           family={Nourzaei},
+           familyi={N\bibinitperiod},
+           given={Maryam},
+           giveni={M\bibinitperiod}}}%
+        {{hash=80c796a44fd8ebe5b5eb10b096753238}{%
+           family={Haig},
+           familyi={H\bibinitperiod},
+           given={Geoffrey},
+           giveni={G\bibinitperiod}}}%
+      }
+      \name{editor}{5}{}{%
+        {{hash=80c796a44fd8ebe5b5eb10b096753238}{%
+           family={Haig},
+           familyi={H\bibinitperiod},
+           given={Geoffrey},
+           giveni={G\bibinitperiod}}}%
+        {{hash=37a2cb27f28d49437b8c42e7b4d6dae2}{%
+           family={Rasekh-Mahand},
+           familyi={R\bibinithyphendelim M\bibinitperiod},
+           given={Mohammad},
+           giveni={M\bibinitperiod}}}%
+        {{hash=567b92f51776ce5d78db5bea72980534}{%
+           family={Stilo},
+           familyi={S\bibinitperiod},
+           given={Donald},
+           giveni={D\bibinitperiod}}}%
+        {{hash=6f1dd309e01c093026ced39fe8fb5354}{%
+           family={Schreiber},
+           familyi={S\bibinitperiod},
+           given={Laurentia},
+           giveni={L\bibinitperiod}}}%
+        {{hash=1f19ec77fbceda0e0ae6b626d3eb694a}{%
+           family={Schiborr},
+           familyi={S\bibinitperiod},
+           given={Nils\bibnamedelima N.},
+           giveni={N\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Language Science Press.}%
+      }
+      \strng{namehash}{5de66f9e055e9e686549aae854eb4c44}
+      \strng{fullhash}{5de66f9e055e9e686549aae854eb4c44}
+      \strng{bibnamehash}{5de66f9e055e9e686549aae854eb4c44}
+      \strng{authorbibnamehash}{5de66f9e055e9e686549aae854eb4c44}
+      \strng{authornamehash}{5de66f9e055e9e686549aae854eb4c44}
+      \strng{authorfullhash}{5de66f9e055e9e686549aae854eb4c44}
+      \strng{editorbibnamehash}{532482e2180145b058878893ba4b16cd}
+      \strng{editornamehash}{e17d6db33b495bdb0b0d8a1960396d5a}
+      \strng{editorfullhash}{532482e2180145b058878893ba4b16cd}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Post-predicate elements in the Western Asian Transition Zone{: A corpus-based approach to areal typology}}}
+      \field{title}{{Balochi: A cross-dialect investigation of post-verbal elements}}
+      \field{year}{2024}
+      \field{pages}{119\bibrangedash 152}
+      \range{pages}{34}
+      \verb{doi}
+      \verb ??
+      \endverb
+      \keyw{withinvolume}
+    \endentry
+    \entry{pelevin2010materials}{article}{}
+      \name{author}{1}{}{%
+        {{hash=ae15e4e10338ef371eb8e0a32842823b}{%
+           family={Pelevin},
+           familyi={P\bibinitperiod},
+           given={Mikhail},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Brill}%
+      }
+      \strng{namehash}{ae15e4e10338ef371eb8e0a32842823b}
+      \strng{fullhash}{ae15e4e10338ef371eb8e0a32842823b}
+      \strng{bibnamehash}{ae15e4e10338ef371eb8e0a32842823b}
+      \strng{authorbibnamehash}{ae15e4e10338ef371eb8e0a32842823b}
+      \strng{authornamehash}{ae15e4e10338ef371eb8e0a32842823b}
+      \strng{authorfullhash}{ae15e4e10338ef371eb8e0a32842823b}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Iran and the Caucasus}
+      \field{title}{Materials on the {Bandari} Dialect}
+      \field{volume}{14}
+      \field{year}{2010}
+      \field{pages}{57\bibrangedash 78}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1163/157338410X12743419189388
+      \endverb
+    \endentry
+    \entry{seddiqinejad2010barresi}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=456093e6a36342cfe8b9ae4d69af2c7c}{%
+           family={Seddiqi\bibnamedelima Nejad},
+           familyi={S\bibinitperiod\bibinitdelim N\bibinitperiod},
+           given={Bakhtiar},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {University of Sīstān-va Balūčestān 1389 h.š.}%
+      }
+      \list{location}{1}{%
+        {Zahedan}%
+      }
+      \strng{namehash}{456093e6a36342cfe8b9ae4d69af2c7c}
+      \strng{fullhash}{456093e6a36342cfe8b9ae4d69af2c7c}
+      \strng{bibnamehash}{456093e6a36342cfe8b9ae4d69af2c7c}
+      \strng{authorbibnamehash}{456093e6a36342cfe8b9ae4d69af2c7c}
+      \strng{authornamehash}{456093e6a36342cfe8b9ae4d69af2c7c}
+      \strng{authorfullhash}{456093e6a36342cfe8b9ae4d69af2c7c}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Bar-resī-ye touṣīfī-ye sāxt-vāže-ye gūyeš-e bašākardī: {A} Descriptive Study of {Bashakardi} Dialect Morphology}
+      \field{type}{mathesis}
+      \field{year}{2010}
+    \endentry
+    \entry{skjaervo1989baskardi}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=1b4e39a8aa3cb1ab9090243196da8fca}{%
+           family={Skjærvø},
+           familyi={S\bibinitperiod},
+           given={Prods\bibnamedelima O.},
+           giveni={P\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+      }
+      \strng{namehash}{1b4e39a8aa3cb1ab9090243196da8fca}
+      \strng{fullhash}{1b4e39a8aa3cb1ab9090243196da8fca}
+      \strng{bibnamehash}{1b4e39a8aa3cb1ab9090243196da8fca}
+      \strng{authorbibnamehash}{1b4e39a8aa3cb1ab9090243196da8fca}
+      \strng{authornamehash}{1b4e39a8aa3cb1ab9090243196da8fca}
+      \strng{authorfullhash}{1b4e39a8aa3cb1ab9090243196da8fca}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Encyclopædia {Iranica}}
+      \field{title}{Baškardi}
+      \field{volume}{III}
+      \field{year}{1989}
+      \field{pages}{846\bibrangedash 850}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1163/2330-4804_EIRO_COM_6720
+      \endverb
+    \endentry
+    \entry{skjaervo1989languages}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=1b4e39a8aa3cb1ab9090243196da8fca}{%
+           family={Skjærvø},
+           familyi={S\bibinitperiod},
+           given={Prods\bibnamedelima O.},
+           giveni={P\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=52d7035e57966c7840b8a732518d392d}{%
+           family={Schmitt},
+           familyi={S\bibinitperiod},
+           given={Rüdiger},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Reichert}%
+      }
+      \strng{namehash}{1b4e39a8aa3cb1ab9090243196da8fca}
+      \strng{fullhash}{1b4e39a8aa3cb1ab9090243196da8fca}
+      \strng{bibnamehash}{1b4e39a8aa3cb1ab9090243196da8fca}
+      \strng{authorbibnamehash}{1b4e39a8aa3cb1ab9090243196da8fca}
+      \strng{authornamehash}{1b4e39a8aa3cb1ab9090243196da8fca}
+      \strng{authorfullhash}{1b4e39a8aa3cb1ab9090243196da8fca}
+      \strng{editorbibnamehash}{52d7035e57966c7840b8a732518d392d}
+      \strng{editornamehash}{52d7035e57966c7840b8a732518d392d}
+      \strng{editorfullhash}{52d7035e57966c7840b8a732518d392d}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Compendium Linguarum Iranicarum}
+      \field{title}{Languages of {Southeast Iran}: {Lārestānī}, {Kumzārī}, {Baškardī}}
+      \field{year}{1989}
+      \field{pages}{363\bibrangedash 369}
+      \range{pages}{7}
+    \endentry
+    \entry{voskanian2007lexical}{article}{}
+      \name{author}{2}{}{%
+        {{hash=073abbda66446aa11c98d396a298b6b5}{%
+           family={Voskanian},
+           familyi={V\bibinitperiod},
+           given={Vardan},
+           giveni={V\bibinitperiod}}}%
+        {{hash=852cd5ebd7138f177a0d05af4eff7d8d}{%
+           family={Boyajian-Sureniants},
+           familyi={B\bibinithyphendelim S\bibinitperiod},
+           given={Vahe},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{5e2095cc3aaf611ac86f3a5658dc1fa3}
+      \strng{fullhash}{5e2095cc3aaf611ac86f3a5658dc1fa3}
+      \strng{bibnamehash}{5e2095cc3aaf611ac86f3a5658dc1fa3}
+      \strng{authorbibnamehash}{5e2095cc3aaf611ac86f3a5658dc1fa3}
+      \strng{authornamehash}{5e2095cc3aaf611ac86f3a5658dc1fa3}
+      \strng{authorfullhash}{5e2095cc3aaf611ac86f3a5658dc1fa3}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Iran and the Caucasus}
+      \field{title}{Lexical Gleanings from {Bašākard}}
+      \field{volume}{11}
+      \field{year}{2007}
+      \field{pages}{121\bibrangedash 125}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1163/157338407X224950
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
